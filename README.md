@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Natole!  
+# 👋 Hi, I'm Natnael!  
 
 ### 🚀 About Me  
 I'm a passionate **web developer** and **tech enthusiast** dedicated to making digital learning more accessible. I love working on **ed-tech solutions**, **quiz platforms**, and **lyrics websites**, and I'm also exploring **content creation** to teach students about **web development**.  
