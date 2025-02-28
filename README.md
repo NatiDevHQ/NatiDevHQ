@@ -22,7 +22,7 @@ I'm a passionate **web developer** and **tech enthusiast** dedicated to making d
 
 ### 📫 How to Reach Me  
 - **Email:** [natgech624@gmail.com]  
-- **LinkedIn:** [your LinkedIn profile]  
+- **LinkedIn:** [https://www.linkedin.com/in/natnael-getachew-b4a592341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
 - **GitHub:** [Eng-Natole](https://github.com/Eng-Natole)  
 
 ### 😄 Pronouns  
