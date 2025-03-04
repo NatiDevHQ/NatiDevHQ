@@ -11,7 +11,7 @@ I'm a passionate **web developer** and **tech enthusiast** dedicated to making d
 
 ### 🌱 Currently Learning  
 - **Backend development** with **Node.js & Express**  
-- **Database management** (MongoDB, Firebase, SQL)  
+- **Database management** (SQL)  
 - **Building web servers & APIs**  
 
 ### 💞️ Looking to Collaborate On  
