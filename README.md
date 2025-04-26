@@ -76,9 +76,7 @@ Also, I love **music**, **fiction writing**, and **learning new things every day
 # 📊 GitHub Stats:
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=eng-natole&show_icons=true&hide_title=true&count_private=true&theme=dark&hide_border=false" alt="GitHub Stats" />
-  <br/>
+
   
   <!-- Streak Counter -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eng-natole&theme=dark&hide_border=false" alt="GitHub Streak" />
