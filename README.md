@@ -74,17 +74,14 @@ Also, I love **music**, **fiction writing**, and **learning new things every day
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-
-<div align="center">
-
-  
-  <!-- Streak Counter -->
+<p align="center">
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eng-natole&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-
+  <br/><br/>
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-natole&layout=compact&theme=dark&hide_border=false&count_private=true" alt="Top Languages" />
-</div>
+</p>
+
 
 
 ---
