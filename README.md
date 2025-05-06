@@ -78,7 +78,9 @@ Also, I love **music**, **fiction writing**, and **learning new things every day
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eng-natole&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
- 
+
+
+
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-natole&layout=compact&theme=dark&hide_border=false&count_private=true" alt="Top Languages" />
 </p>
