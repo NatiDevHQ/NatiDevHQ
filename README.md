@@ -3,9 +3,10 @@
 </p>
 
 # 💫 About Me:
-👋 Hi, I'm Natnael Getachew!
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFC6&center=true&vCenter=true&width=400&height=100&lines=Hi+there!+I'm+Natnael+👋;Fullstack+Web+Developer;Mobile+App+Builder;Open+Source+Contributor;Always+Learning+%26+Exploring+Tech" alt="Typing SVG" />
+</p>
 
-### 🚀 About Me
 I'm a passionate **web developer** and **tech enthusiast** dedicated to making digital learning more accessible.  
 I love working on **ed-tech solutions**, **quiz platforms**, and **lyrics websites**, and I'm also exploring **content creation** to teach students about **web development**.
 
