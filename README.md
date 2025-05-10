@@ -1,7 +1,9 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=eng-natole&label=Profile%20views&color=0e75b6&style=flat" alt="eng-natole" />
 </p>
-
+<p align="center">
+  <img src="https://github.com/iamSamael/iamSamael/assets/104965976/d5ceec0a-c788-4234-93be-bfcb0b247700"/>
+</p>
 # 💫 About Me:
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFC6&center=true&vCenter=true&width=400&height=100&lines=Hi+there!+I'm+Natnael+👋;Fullstack+Web+Developer;Mobile+App+Builder;Open+Source+Contributor;Always+Learning+%26+Exploring+Tech" alt="Typing SVG" />
