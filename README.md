@@ -11,25 +11,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFC6&center=true&vCenter=true&width=400&height=100&lines=Hi+there!+I'm+Natnael+👋;Fullstack+Web+Developer;Mobile+App+Builder;Open+Source+Contributor;Always+Learning+%26+Exploring+Tech" alt="Typing SVG" />
 </p>
 
-I'm a passionate **web developer** and **tech enthusiast** dedicated to making digital learning more accessible.  
-I love working on **ed-tech solutions**, **quiz platforms**, and **lyrics websites**, and I'm also exploring **content creation** to teach students about **web development**.
+I’m a **web developer** who enjoys building simple and useful websites, especially for education and quizzes. I know HTML, CSS, JavaScript, React, and Node.js, and I’m learning more about backend work and databases. I’m interested in working on projects that help students learn and want to share what I know with others.
+
 
 ### 👀 Interests
 - Web development (HTML, CSS, JavaScript, React, Node.js)
-- Digital learning platforms & ed-tech solutions
-- Building interactive and engaging web applications
-- Teaching and mentoring aspiring developers
 
 ### 🌱 Currently Learning
 - **Backend development** with **Node.js & Express**
 - **Database management** (SQL, MongoDB)
 - **Building web servers & APIs**
-
-### 💞️ Looking to Collaborate On
-- **Educational platforms** for students
-- **Quiz & exam preparation applications**
-- **Web development tutorials & resources**
-- **Open-source projects that make learning accessible**
 
 ### 📫 How to Reach Me
 - **Email:** natgech624@gmail.com
@@ -41,7 +32,7 @@ He/Him
 
 ### ⚡ Fun Fact
 I believe **technology + education = unlimited possibilities**!  
-Also, I love **music**, **fiction writing**, and **learning new things every day**.
+
 
 ---
 💡 _"Code to learn, learn to code!"_
