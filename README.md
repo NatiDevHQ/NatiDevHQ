@@ -13,7 +13,7 @@ I’m a **web developer** who enjoys building simple and useful websites, especi
 
 
 ### 👀 Interests
-- Web development (HTML, CSS, JavaScript, React, Node.js)
+- Web development (HTML, CSS, JavaScript, React)
 
 ### 🌱 Currently Learning
 - **Backend development** with **Node.js & Express**
