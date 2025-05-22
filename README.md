@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Natnael — Fullstack Web Developer
 
-#### 📌 Dire Dawa, Ethiopia ‎ ‎ ‎ ‎ ‎ ‎ 🏠 Open to Remote Work
+#### 📌 Ethiopia ‎ ‎ ‎ ‎ ‎ ‎ 🏠 Open to Remote Work
 
 <br>
 
