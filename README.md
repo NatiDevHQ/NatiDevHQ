@@ -1,6 +1,6 @@
 ![Available for Work](https://img.shields.io/badge/Available%20for%20Work-Yes-brightgreen)
 
-## 👋 Hi, I'm Natnael — MERNstack Developer
+## 👋 Hi, I'm Natnael — Mernstack Developer
 
 #### 📌 Ethiopia ‎ ‎ ‎ ‎ ‎ ‎ 🏠 Open to Remote Work
 
