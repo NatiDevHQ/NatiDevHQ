@@ -22,7 +22,7 @@
 
 | 🚀 Project                                                                                             | 📚 Stack                                                                                             |
 |--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| [![Quizzy](https://github-readme-stats.vercel.app/api/pin/?username=Eng-Natole&repo=quizzy-app&theme=dark&hide_border=true)](https://github.com/Eng-Natole/quizzy-app) | [![Skills](https://skillicons.dev/icons?i=react,nodejs,tailwind)](https://skillicons.dev) <br> [![Skills](https://skillicons.dev/icons?i=express,mongodb,vercel)](https://skillicons.dev) |
+| [![Quizzy](https://github-readme-stats.vercel.app/api/pin/?username=Eng-Natole&repo=Crypto&theme=dark&hide_border=true)](https://github.com/Eng-Natole/quizzy-app) | [![Skills](https://skillicons.dev/icons?i=react,nodejs,tailwind)](https://skillicons.dev) <br> [![Skills](https://skillicons.dev/icons?i=express,mongodb,vercel)](https://skillicons.dev) |
 
 ---
 
