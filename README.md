@@ -18,11 +18,15 @@
 
 ---
 
-## 🔥 Featured Project
+## 🔥 Featured Projects
 
-| 🚀 Project                                                                                             | 📚 Stack                                                                                             |
-|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| [![Quizzy](https://github-readme-stats.vercel.app/api/pin/?username=Eng-Natole&repo=Crypto&theme=dark&hide_border=true)](https://github.com/Eng-Natole/quizzy-app) | [![Skills](https://skillicons.dev/icons?i=react,nodejs,tailwind)](https://skillicons.dev) <br> [![Skills](https://skillicons.dev/icons?i=express,mongodb,vercel)](https://skillicons.dev) |
+| 🚀 Project                                                                                              | 📚 Stack                                                                                             |
+|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| [![Quizzy](https://github-readme-stats.vercel.app/api/pin/?username=Eng-Natole&repo=quizzy-app&theme=dark&hide_border=true)](https://github.com/Eng-Natole/quizzy-app) | [![Skills](https://skillicons.dev/icons?i=react,nodejs,tailwind)](https://skillicons.dev) <br> [![Skills](https://skillicons.dev/icons?i=express,mongodb,vercel)](https://skillicons.dev) |
+| [![freeCodeCamp-React](https://github-readme-stats.vercel.app/api/pin/?username=Eng-Natole&repo=freeCodeCamp-React&theme=dark&hide_border=true)](https://github.com/Eng-Natole/freeCodeCamp-React) | [![Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev) |
+| [![Amazon-clone](https://github-readme-stats.vercel.app/api/pin/?username=Eng-Natole&repo=Amazon-clone&theme=dark&hide_border=true)](https://github.com/Eng-Natole/Amazon-clone) | [![Skills](https://skillicons.dev/icons?i=react,firebase,css)](https://skillicons.dev) |
+| [![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=Eng-Natole&repo=Netfilx-Clone&theme=dark&hide_border=true)](https://github.com/Eng-Natole/Netfilx-Clone) | [![Skills](https://skillicons.dev/icons?i=react,tailwind,api)](https://skillicons.dev) |
+| [![YouTube-Clone](https://github-readme-stats.vercel.app/api/pin/?username=Eng-Natole&repo=Youtube-clone&theme=dark&hide_border=true)](https://github.com/Eng-Natole/Youtube-clone) | [![Skills](https://skillicons.dev/icons?i=react,css,api)](https://skillicons.dev) |
 
 ---
 
