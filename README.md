@@ -34,11 +34,11 @@
 
 | **Languages** | **Frontend** | **Backend** |
 |:-------------:|:------------:|:-----------:|
-| [![Skills](https://skillicons.dev/icons?i=js,java,cpp,html,php,python)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=nodejs,express,firebase)](https://skillicons.dev) |
+| [![Skills](https://skillicons.dev/icons?i=js,java,cpp,php,python)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=nodejs,express,firebase)](https://skillicons.dev) |
 
 | **Database** | **Dev Tools** | **Others** |
 |:------------:|:-------------:|:----------:|
-| [![Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=git,vercel,figma)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=npm,jquery)](https://skillicons.dev) |
+| [![Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=git,vercel,figma)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=npm,jquery)](https://skillicons.dev) |
 
 ---
 
