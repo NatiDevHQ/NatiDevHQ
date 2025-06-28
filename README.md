@@ -20,47 +20,48 @@
 <img src="./assets/border_separator.gif">
 
 <div align="center">
-  <p>📌 Ethiopia ‎ ‎ ‎ ‎ ‎ ‎ 🏠 Open to Remote Work</p>
+ 
   
-  <a href="https://www.linkedin.com/in/natnael-getachew-b4a592341/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="mailto:natgech624@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>Profile Info</h3>
-  <kbd>
-    <div align="center">
-      <p><br><strong>Contact me</strong><br><br>
-        <a href="mailto:natgech624@gmail.com">
-          <img src="https://skillicons.dev/icons?i=gmail" />
-        </a>
-        <a href="https://github.com/Eng-Natole">
-          <img src="https://skillicons.dev/icons?i=github" />
-        </a>
-        <a href="https://www.linkedin.com/in/natnael-getachew-b4a592341/">
-          <img src="https://skillicons.dev/icons?i=linkedin" />
-        </a>
-      </p>
-    </div>
-  </kbd>
-  <kbd>
-    <div align="center">
-      <p><br><strong>Profile Views</strong><br><br>
-        <img src="https://profile-counter.glitch.me/Eng-Natole/count.svg" width="350px" />
-      </p>
-    </div>
-  </kbd>
-  <kbd>
-    <div align="center">
-      <p><br><strong>Followers Count</strong><br><br><br>
-        <img src="https://img.shields.io/github/followers/Eng-Natole?label=Followers&style=social" width="150px"> 
-      </p>
-    </div>
-  </kbd>
+  <div align="center">
+    <h3>Profile Info</h3>
+    <kbd>
+      <div align="center">
+       <p style="width:50px; height: 100px;">
+         <strong>📍 Location</strong><br><br>
+             Ethiopia
+       </p>
+      </div>
+    </kbd>
+    <kbd>
+      <div align="center">
+        <p><br><strong>Contact me</strong><br><br>
+          <a href="mailto:natgech624@gmail.com">
+            <img src="https://skillicons.dev/icons?i=gmail" />
+          </a>
+          <a href="https://github.com/Eng-Natole">
+            <img src="https://skillicons.dev/icons?i=github" />
+          </a>
+          <a href="https://www.linkedin.com/in/natnael-getachew-b4a592341/">
+            <img src="https://skillicons.dev/icons?i=linkedin" />
+          </a>
+        </p>
+      </div>
+    </kbd>
+    <kbd>
+      <div align="center">
+        <p><br><strong>Profile Views</strong><br><br>
+          <img src="https://profile-counter.glitch.me/Eng-Natole/count.svg" width="350px" />
+        </p>
+      </div>
+    </kbd>
+    <kbd>
+      <div align="center">
+        <p><br><strong>Followers Count</strong><br><br><br>
+          <img src="https://img.shields.io/github/followers/Eng-Natole?label=Followers&style=social" width="150px"> 
+        </p>
+      </div>
+    </kbd>
+  </div>
 </div>
 
 <br>
@@ -68,16 +69,6 @@
   <img src="./assets/terminal.gif" />
 </div>
 <img src="./assets/border_separator.gif">
-
-## 🔥 Featured Projects
-
-| 🚀 Project | 📚 Stack |
-|------------|----------|
-| [![Quizzy](https://github-readme-stats.vercel.app/api/pin/?username=Eng-Natole&repo=quizzy-app&theme=dark&hide_border=true)](https://github.com/Eng-Natole/quizzy-app) | [![Skills](https://skillicons.dev/icons?i=react,nodejs,tailwind)](https://skillicons.dev) <br> [![Skills](https://skillicons.dev/icons?i=express,mongodb,vercel)](https://skillicons.dev) |
-| [![freeCodeCamp-React](https://github-readme-stats.vercel.app/api/pin/?username=Eng-Natole&repo=freeCodeCamp-React&theme=dark&hide_border=true)](https://github.com/Eng-Natole/freeCodeCamp-React) | [![Skills](https://skillicons.dev/icons?i=react,js)](https://skillicons.dev) |
-| [![Amazon-clone](https://github-readme-stats.vercel.app/api/pin/?username=Eng-Natole&repo=Amazon-clone&theme=dark&hide_border=true)](https://github.com/Eng-Natole/Amazon-clone) | [![Skills](https://skillicons.dev/icons?i=react,firebase)](https://skillicons.dev) |
-| [![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=Eng-Natole&repo=Netfilx-Clone&theme=dark&hide_border=true)](https://github.com/Eng-Natole/Netfilx-Clone) | [![Skills](https://skillicons.dev/icons?i=react,tailwind,api)](https://skillicons.dev) |
-| [![YouTube-Clone](https://github-readme-stats.vercel.app/api/pin/?username=Eng-Natole&repo=Youtube-clone&theme=dark&hide_border=true)](https://github.com/Eng-Natole/Youtube-clone) | [![Skills](https://skillicons.dev/icons?i=react,api)](https://skillicons.dev) |
 
 <!-- Github Stats -->
 <div align="center">
@@ -118,7 +109,6 @@
 
 
 <img src="./assets/border_separator.gif">
-
 
 ## 🌟 Enjoying My Projects?
 
