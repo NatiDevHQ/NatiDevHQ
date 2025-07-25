@@ -49,13 +49,6 @@
     </kbd>
     <kbd>
       <div align="center">
-        <p><br><strong>Profile Views</strong><br><br>
-          <img src="https://profile-counter.glitch.me/Eng-Natole/count.svg" width="350px" />
-        </p>
-      </div>
-    </kbd>
-    <kbd>
-      <div align="center">
         <p><br><strong>Followers Count</strong><br><br><br>
           <img src="https://img.shields.io/github/followers/Eng-Natole?label=Followers&style=social" width="150px"> 
         </p>
