@@ -85,9 +85,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eng-Natole&theme=tokyonight&utcOffset=+3.0" width="340px" />
   </div>
 
-  <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=Eng-Natole&theme=tokyonight&column=6&no-frame=true&margin-w=10" width="680" />
-  </div>
+ 
 </div>
 
 ## 🛠️ Tech Stack
