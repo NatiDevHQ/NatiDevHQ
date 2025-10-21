@@ -29,8 +29,7 @@
 
 > “A developer who turns coffee ☕ into code, and ideas 💡 into reality.”
 
-👋 Hi, I’m **Natnael Getachew**, a **Fullstack Developer** from **Ethiopia** passionate about creating intuitive, high-impact digital experiences.  
-I specialize in building **scalable web systems**, **edtech tools**, and **AI-enhanced applications**.  
+👋 Hi, I’m **Natnael Getachew**, a **Fullstack Developer** from **Ethiopia** 
 
 💼 Currently building: **Talmid — a Next.js-powered LMS platform (in development)**  
 🎯 2025 Goal: Master **Next.js**, **backend scaling**, and **AI-driven web experiences**  
