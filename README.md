@@ -1,9 +1,9 @@
 <!-- 🌌 NatiDevHQ – Futuristic GitHub Profile README -->
-<!-- Premium Design | Created October 2025 -->
+<!-- Premium Design | Updated November 2025 -->
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7A3&center=true&vCenter=true&width=700&lines=Hey+there+👋,+I'm+Natnael+Getachew!;Fullstack+Developer+%7C+Innovator+%7C+Problem+Solver;Building+the+Future,+One+Commit+at+a+Time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7A3&center=true&vCenter=true&width=700&lines=Hey+there+👋,+I'm+Natnael+Getachew!;Fullstack+Developer+%7C+UI/UX+Designer+%7C+Backend+Engineer;Building+delightful+apps+%26+scalable+systems." alt="Typing SVG" />
 
   <img src="./assets/neon_header.gif" width="100%" />
 
@@ -14,7 +14,7 @@
     <a href="https://github.com/NatiDevHQ?tab=repositories">
       <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-blueviolet?style=flat-square" />
     </a>
-    <a href="mailto:natgech624@gmail.com">
+    <a href="mailto:natigech35@gmail.com">
       <img src="https://img.shields.io/badge/💌%20Email%20Me-D14836?style=flat-square" />
     </a>
   </p>
@@ -25,15 +25,17 @@
 
 ---
 
-## 🧭 Who Am I?
+## 🧭 About Me
 
-> “A developer who turns coffee ☕ into code, and ideas 💡 into reality.”
+> “Turning ideas 💡 into elegant, user-focused applications.”
 
-👋 Hi, I’m **Natnael Getachew**, a **Fullstack Developer** from **Ethiopia** 
+👋 Hi, I’m **Natnael Getachew (Nati)** — a **Full-stack Developer**, **UI/UX Designer**, and **Backend Engineer** from 🇪🇹 **Ethiopia**.  
+I’m passionate about building smooth, modern apps with meaningful design and solid backend systems.
 
-💼 Currently building: **Talmid — a Next.js-powered LMS platform (in development)**  
-🎯 2025 Goal: Master **Next.js**, **backend scaling**, and **AI-driven web experiences**  
-💬 Motto: *“Don’t just code it — craft it.”*
+💼 Currently @ **TALMIDSLN** — Core developer on **Yuno**, a gamified learning app helping students learn 2× faster.  
+🎯 2025 Goals: Master **Next.js**, **backend scaling**, and **AI-driven web experiences**.  
+💬 Motto: *“Don’t just code it — craft it.”*  
+📫 Reach me: **natigech35@gmail.com**
 
 ---
 
@@ -47,29 +49,24 @@
 
 | 💻 **Languages** | 🎨 **Frontend** | ⚙️ **Backend** |
 |:----------------:|:----------------:|:----------------:|
-| ![Langs](https://skillicons.dev/icons?i=js,java,cpp,php,python) | ![FE](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite) | ![BE](https://skillicons.dev/icons?i=nodejs,express,firebase,postman) |
+| ![Langs](https://skillicons.dev/icons?i=js,java,cpp,php,python) | ![FE](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite) | ![BE](https://skillicons.dev/icons?i=nodejs,express,django,firebase,postman) |
 
-| 🧩 **Database** | 🧰 **Dev Tools** | 🚀 **Others** |
+| 🧩 **Databases** | 🧰 **Dev Tools** | 🚀 **Deployment** |
 |:----------------:|:----------------:|:----------------:|
-| ![DB](https://skillicons.dev/icons?i=mysql,mongodb,firebase) | ![Tools](https://skillicons.dev/icons?i=git,vercel,figma,vscode,docker) | ![Others](https://skillicons.dev/icons?i=npm,webpack,netlify) |
+| ![DB](https://skillicons.dev/icons?i=mysql,mongodb,neon) | ![Tools](https://skillicons.dev/icons?i=git,figma,vscode,docker) | ![Deploy](https://skillicons.dev/icons?i=vercel,netlify) |
 
 </div>
 
 ---
 
-## ⚡ Live Stats Dashboard
+## 💼 Experience
 
-<div align="center">
-
-
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=NatiDevHQ&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="700"/>
-
-  <br/>
-
-
-</div>
+| 🏢 **Company** | 📅 **Duration** | 💡 **Role** | 🚀 **Highlights** |
+|:--------------:|:---------------:|:------------:|:------------------|
+| **TALMIDSLN** | 6 months (Present) | Software Developer | Core dev on **Yuno App** — designed DB schema, optimized APIs (↓ server load 15%), improved UX (↑ engagement 40%). |
+| **ABO Solutions** | 2 months | UI/UX Designer | Created a clean, high-clarity design system; boosted usability & dev handoff efficiency. |
+| **Afronex** | 1 month | Frontend Developer (Intern) | Built interactive, reusable UI components; improved dev consistency. |
+| **Arife Tech** | 1 year+ | Backend Developer | Built scalable **Django** APIs, improved delivery performance by 16%. |
 
 ---
 
@@ -77,23 +74,52 @@
 
 <div align="center">
 
-| 🚧 Project | 🧾 Description | 🧠 Stack |
+| 🌟 Project | 🧾 Description | 🧠 Stack |
 |:-----------|:---------------|:----------|
-| 🎓 **Talmid LMS Platform** | Scalable learning management system focused on accessibility & modern UI. | Next.js • Node.js • MongoDB • Tailwind |
-| 💳 **Chapa API Integration** | Realistic payment gateway demo for devs integrating Chapa in Node. | Node.js • Express • EJS • Axios |
-| 📸 **Photo Gallery Website** | Responsive and fast photo gallery with React hooks and lazy loading. | React • Tailwind CSS |
-| 🏦 **Bank Management System** | Command-line banking app with CRUD and transaction logs. | C++ |
+| 🎮 **Yuno App** | Gamified quiz app that boosts student learning speed. | React Native • Expo • Clerk • Neon |
+| 🎓 **Talmid Learning Platform** | Full LMS with course management & analytics. | Next.js • Neon • Clerk • GitHub Auth |
+| 🔐 **Gateway (NFC Gate Control)** | Secure NFC-based access system with role management. | React • Node.js • Express • Neon |
+| 💳 **Chapa API Demo** | Seamless Node.js Chapa payment integration. | Node.js • Express • Axios |
+| 🖥️ **Photo Gallery Site** | Fast, minimal photo portfolio with lazy loading. | React • Tailwind CSS |
 
 </div>
 
 ---
 
-## 🌌 Aesthetics & Design Philosophy
+## 🎓 Education & Certifications
+
+🎓 **B.Sc. in Information Technology** — Dire Dawa University  
+🎯 **ALX Africa** — Backend Development Program  
+📊 **Udacity** — Foundations of Data Analysis  
+🖥️ **freeCodeCamp** — Frontend Development Certificate  
+💡 **Safaricom Talent Cloud** — Frontend Development Track  
+
+---
+
+## 🏅 Awards & Achievements
+
+🏆 **Academic Excellence Award** — Dire Dawa University  
+📘 Completed multiple industry-level programs (ALX, Udacity, freeCodeCamp, Safaricom Talent Cloud)  
+💬 *Always Building, Always Learning.*
+
+---
+
+## ⚡ Live Stats Dashboard
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=NatiDevHQ&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="700"/>
+  <br/>
+</div>
+
+---
+
+## 🌌 Design & Code Philosophy
 
 > “Great code deserves great design.”
 
-I approach development as a blend of **engineering + art** — ensuring UI feels natural, code stays clean, and systems remain future-proof.  
-Check out my projects to see how I apply this mindset!
+I combine **engineering precision** with **creative design** — crafting software that’s fast, functional, and delightful.  
+Whether it’s a microservice or a mobile app, every detail matters.
 
 ---
 
@@ -103,20 +129,20 @@ Check out my projects to see how I apply this mindset!
 
 ---
 
-## 🌟 Let’s Collaborate
+## 🤝 Let’s Collaborate
 
-If you share my love for building creative, impactful tools — let’s connect!
+If you love crafting elegant systems or design-driven apps — let’s connect and build something awesome.
 
 <p align="center">
-  <a href="mailto:natgech624@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/natnael-getachew-b4a592341/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:natigech35@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/natnael-getachew"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/NatiDevHQ"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=0EF7BB&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Don’t+forget+to+⭐+my+repos+if+you+like+them!;Stay+creative,+stay+curious." alt="Thanks Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=0EF7BB&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;⭐+Star+my+repos+if+you+like+them!;Stay+curious,+stay+creative." alt="Thanks Typing SVG"/>
 </div>
 
 ---
