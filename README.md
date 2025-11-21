@@ -65,8 +65,6 @@ I’m passionate about building smooth, modern apps with meaningful design and s
 | 🏢 **Company** | 📅 **Duration** | 💡 **Role** | 🚀 **Highlights** |
 |:--------------:|:---------------:|:------------:|:------------------|
 | **TALMIDSLN** | 6 months (Present) | Software Developer | Core dev on **Yuno App** — designed DB schema, optimized APIs (↓ server load 15%), improved UX (↑ engagement 40%). |
-| **ABO Solutions** | 2 months | UI/UX Designer | Created a clean, high-clarity design system; boosted usability & dev handoff efficiency. |
-| **Afronex** | 1 month | Frontend Developer (Intern) | Built interactive, reusable UI components; improved dev consistency. |
 | **Arife Tech** | 1 year+ | Backend Developer | Built scalable **Django** APIs, improved delivery performance by 16%. |
 
 ---
