@@ -80,8 +80,7 @@ I’m passionate about building smooth, modern apps with meaningful design and s
 | 🎮 **Yuno App** | Gamified quiz app that boosts student learning speed. | React Native • Expo • Clerk • Neon |
 | 🎓 **Talmid Learning Platform** | Full LMS with course management & analytics. | Next.js • Neon • Clerk • GitHub Auth |
 | 🔐 **Gateway (NFC Gate Control)** | Secure NFC-based access system with role management. | React • Node.js • Express • Neon |
-| 💳 **Chapa API Demo** | Seamless Node.js Chapa payment integration. | Node.js • Express • Axios |
-| 🖥️ **Photo Gallery Site** | Fast, minimal photo portfolio with lazy loading. | React • Tailwind CSS |
+
 
 </div>
 
