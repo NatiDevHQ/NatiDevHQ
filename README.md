@@ -146,7 +146,9 @@ If you love crafting elegant systems or design-driven apps — let’s connect a
 ---
 
 <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   <img src="https://komarev.com/ghpvc/?username=NatiDevHQ&label=Profile%20views&color=0ef7bb&style=flat-square" />
+
   <br/>
   <sub>Designed with ❤️ by <strong>Natnael Getachew</strong></sub>
 </p>
