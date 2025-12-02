@@ -54,7 +54,7 @@ I’m passionate about building smooth, modern apps with meaningful design and s
 
 | 🧩 **Databases** | 🧰 **Dev Tools** | 🚀 **Deployment** |
 |:----------------:|:----------------:|:----------------:|
-| ![DB](https://skillicons.dev/icons?i=mysql,mongodb,neon) | ![Tools](https://skillicons.dev/icons?i=git,figma,vscode,docker) | ![Deploy](https://skillicons.dev/icons?i=vercel,netlify) |
+| ![DB](https://skillicons.dev/icons?i=mysql,mongodb,neon) | ![Tools](https://skillicons.dev/icons?i=git,figma,vscode) | ![Deploy](https://skillicons.dev/icons?i=vercel,netlify,render) |
 
 </div>
 
