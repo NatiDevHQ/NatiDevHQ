@@ -3,7 +3,6 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7A3&center=true&vCenter=true&width=700&lines=Hey+there+👋,+I'm+Natnael+Getachew!" alt="Typing SVG" />
 
 
   <img src="./assets/neon_header.gif" width="100%" />
