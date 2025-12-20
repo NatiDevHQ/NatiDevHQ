@@ -29,7 +29,7 @@
 
 > “Turning ideas 💡 into elegant, user-focused applications.”
 
-👋 Hi, I’m **Natnael Getachew (Nati)** — a **Full-stack Developer**, **UI/UX Designer**, and **Backend Engineer** from 🇪🇹 **Ethiopia**.  
+👋 Hi, I’m **Natnael Getachew (Nati)** — a **Full-stack Developer** from 🇪🇹 **Ethiopia**.  
 I’m passionate about building smooth, modern apps with meaningful design and solid backend systems.
 
 💼 Currently @ **TALMIDSLN** — Core developer on **Yuno**, a gamified learning app helping students learn 2× faster.  
