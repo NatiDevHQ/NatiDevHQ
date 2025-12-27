@@ -21,6 +21,12 @@
 
   <img src="https://komarev.com/ghpvc/?username=NatiDevHQ&label=Visitors&color=0ef7bb&style=flat-square" alt="Profile Views"/>
 
+  <div style="text-align: center;">
+    <h1 align="center">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+💥+I'm+Natnael+Getachew!+💥;+✨+Software+Engineering+Student!+🎉;" alt="Typing SVG" />
+    </h1>
+  </div>
+
 </div>
 
 ---
