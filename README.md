@@ -4,8 +4,7 @@
 <div align="center">
 
 
-
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=250&section=header&text=NatiDevHQ&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Turning%20Code%20Into%20Reality&descAlignY=55&descSize=20&fontColor=ffffff"/>
   <img src="./assets/neon_header.gif" width="100%" />
 
   <p align="center">
@@ -31,19 +30,36 @@
 </div>
 
 ---
+<!-- About Section -->
+<h2 align="center">⚡ About Me</h2>
 
-## 🧭 About Me
+<div align="center">
+  <blockquote>
+    “Don’t just code it — craft it.”
+  </blockquote>
+</div>
 
-> “Turning ideas 💡 into elegant, user-focused applications.”
+<br/>
 
-👋 Hi, I’m **Natnael Getachew (Nati)** — a **Full-stack Developer** from 🇪🇹 **Ethiopia**.  
-I’m passionate about building smooth, modern apps with meaningful design and solid backend systems.
-
-💼 Currently @ **TALMIDSLN** — Core developer on **Yuno**, a gamified learning app helping students learn 2× faster.  
-🎯 2025 Goals: Master **Next.js**, **backend scaling**, and **AI-driven web experiences**.  
-💬 Motto: *“Don’t just code it — craft it.”*  
-📫 Reach me: **natigech35@gmail.com**
-
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍💻 The Developer</h3>
+      <ul>
+        <li>👋 I’m <strong>Natnael Getachew</strong>, a developer from <strong>Ethiopia 🇪🇹</strong>.</li>
+        <li>🎓 <strong>Student</strong> @ Dire Dawa University (IT).</li>
+        <li>💼 <strong>Software Developer</strong> @ <a href="#">TALMIDSLN</a>.</li>
+        <li>🔭 Currently working on: <strong>AI-driven web experiences</strong>.</li>
+        <li>🌱 Learning: <strong>Backend Scaling & Next.js Architecture</strong>.</li>
+        <li>⚡ Fun fact: I improved API load times by <strong>15%</strong> just by optimizing database schemas.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="center" align="center">
+      <!-- You can put a profile pic or Memoji here -->
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif"/>
+    </td>
+  </tr>
+</table>
 ---
 
 <div align="center">
