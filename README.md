@@ -4,7 +4,7 @@
 <div align="center">
 
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=250&section=header&text=Natnael Getachew&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Turning%20Code%20Into%20Reality&descAlignY=55&descSize=20&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=250&section=header&text=NatiDevHQ&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Turning%20Code%20Into%20Reality&descAlignY=55&descSize=20&fontColor=ffffff"/>
   <img src="./assets/neon_header.gif" width="100%" />
 
   <p align="center">
