@@ -128,7 +128,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=NatiDevHQ&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="700"/>
+ 
   <br/>
 </div>
 
