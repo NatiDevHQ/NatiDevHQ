@@ -43,7 +43,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="60%" valign="center">
       <h3>👨‍💻 The Developer</h3>
       <ul>
         <li>👋 I’m <strong>Natnael Getachew</strong>, a developer from <strong>Ethiopia 🇪🇹</strong>.</li>
@@ -56,7 +56,7 @@
     </td>
     <td width="40%" valign="center" align="center">
       <!-- You can put a profile pic or Memoji here -->
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif"/>
+     <img align="left" src="Solo-Leveling-PNG.png" width="65%"/>
     </td>
   </tr>
 </table>
