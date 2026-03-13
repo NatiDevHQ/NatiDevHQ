@@ -127,9 +127,11 @@
 ## ⚡ Live Stats Dashboard
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=NatiDevHQ&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="700"/>
-  <br/>
+  <p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NatiDevHQ&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NatiDevHQ&layout=compact&langs_count=7&theme=radical" />
+</p>
+
 </div>
 
 ---
