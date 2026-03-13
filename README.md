@@ -128,14 +128,15 @@
 
 <div align="center">
   <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NatiDevHQ&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NatiDevHQ&layout=compact&langs_count=7&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatiDevHQ&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-</p>
-
+    <img
+      height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=NatiDevHQ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NatiDevHQ&layout=compact&langs_count=7&theme=radical"
+    />
+  </p>
 </div>
 
 ---
