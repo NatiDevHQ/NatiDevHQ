@@ -137,6 +137,11 @@
       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NatiDevHQ&layout=compact&langs_count=7&theme=radical"
     />
   </p>
+  <br>
+  <p>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatiDevHQ&theme=dark&hide_border=false" alt="GitHub Streak" />
+
+  </p>
 </div>
 
 ---
