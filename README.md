@@ -127,24 +127,44 @@
 ## ⚡ Live Stats Dashboard
 
 <div align="center">
-  <p align="center">
-    <img
-      height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=NatiDevHQ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-    />
-    <img
-      height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NatiDevHQ&layout=compact&langs_count=7&theme=radical"
-    />
-  </p>
-  <br>
-  <p>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatiDevHQ&theme=dark&hide_border=false" alt="GitHub Streak" />
 
+  <!-- SYSTEM UI HEADER -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=───+SYSTEM+NOTIFICATION+───;+DAILY+QUEST+COMPLETE:+340+DAY+STREAK;+PLAYER:+NatiDevHQ;+CURRENT+RANK:A+-CLASS;+ARISE..." alt="Solo Leveling System" />
+
+  <br/>
+
+  <!-- MAIN STATS SECTION -->
+  <p>
+    <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NatiDevHQ&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NatiDevHQ&layout=compact&langs_count=7&theme=radical" />
   </p>
+
+  <!-- THE SYSTEM QUEST CARD (LARGER GIF + STREAK) -->
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <!-- LEFT BOX: Solo Leveling GIF (Increased Size) -->
+      <td align="center" valign="center">
+        <img 
+          src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVnMW1uOWZpcm5ueTl3bzU5cmcxN3dyOGFwYXMxZHdvdXE1bHBiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ohd6o5BBAO19cGzChU/giphy.gif" 
+          width="320" 
+          style="border-radius: 12px; border: 3px solid #00F2FF; box-shadow: 0 0 20px #00F2FF;" 
+          alt="Shadow Monarch"
+        />
+      </td>
+      <!-- RIGHT BOX: Live Streak Stats -->
+      <td align="center" valign="center" style="padding-left: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatiDevHQ&theme=radical&hide_border=false" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- HOLOGRAPHIC SYSTEM DIVIDER -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </div>
 
----
 
 ## 🌌 Design & Code Philosophy
 
@@ -152,12 +172,6 @@
 
 I combine **engineering precision** with **creative design** — crafting software that’s fast, functional, and delightful.  
 Whether it’s a microservice or a mobile app, every detail matters.
-
----
-
-<div align="center">
-  <img src="./assets/terminal.gif" width="700px" />
-</div>
 
 ---
 
