@@ -1,5 +1,5 @@
 <!-- 🌌 NatiDevHQ – Futuristic GitHub Profile README -->
-<!-- Premium Design |  November 2026 --->
+<!-- Premium Design | X November 2026 --->
 
 <div align="center">
 
